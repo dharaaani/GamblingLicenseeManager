@@ -1,0 +1,6 @@
+@GamblingLicenseeManager_HostAddress = http://localhost:5212
+
+GET {{GamblingLicenseeManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

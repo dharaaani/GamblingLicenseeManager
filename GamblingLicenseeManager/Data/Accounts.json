@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Name": "Alpha Licensing Co.",
+    "LicensedProductIds": [
+      101,
+      102
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "Beta Enterprises",
+    "LicensedProductIds": [
+      102,
+      103
+    ]
+  },
+  {
+    "Id": 3,
+    "Name": "string",
+    "LicensedProductIds": [
+      101,
+      103
+    ]
+  }
+]
